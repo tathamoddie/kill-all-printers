@@ -1,0 +1,5 @@
+/* http://www.twitter.com/daveoflynn/status/197542674893520897 */
+@media print {
+	body > * { display: none; }
+	body::after { content: 'PC Load Letter'; }
+}
