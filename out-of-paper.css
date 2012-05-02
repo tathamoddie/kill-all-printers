@@ -1,0 +1,4 @@
+@media print {
+	body > * { display: none; }
+	body::after { content: 'Out of paper'; }
+}
