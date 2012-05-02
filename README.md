@@ -8,13 +8,13 @@ This repo is a collection of handy and occasionally witty ways for helping to we
 
 A collection of CSS files which replace or annotate the content in your document, some more smarmy then others.
 
-`wake-up-call.css` is probably the least objectionable of the replacements, getting the point across without being rude. Thus, no fun at all ;)
+`wake-up-call` is probably the least objectionable of the replacements, getting the point across without being rude. Thus, no fun at all ;)
 
 ## Annotations
 
-* `going-backwards.css` tells the user they're going back in time, so their text has been made backwards, too!
+* `going-backwards` tells the user they're going back in time, so their text has been made backwards, too!
 
-##Replacements
+## Replacements
 
 * `hide-all-content` Replaces the page with, well... nothing.
 * `mean-skull` Replaces the content with a skull and crossbones, who DOES NOT APPROVE.
