@@ -1,6 +1,6 @@
 /* http://www.twitter.com/slace/status/197536893603299331 */
 @media print {
-	body > * { -webkit-transform: rotateY(180deg); }
+	body > * { -ms-transform: rotateY(180deg); -o-transform: rotateY(180deg); -moz-transform: rotateY(180deg); -webkit-transform: rotateY(180deg); transform: rotateY(180deg); }
 	body::before {
 		content: 'Based on you wanting to print this document, it looks like you\'re going backwards with technology. We put this document backwards for you too to help.';
 	}
